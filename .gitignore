@@ -1,0 +1,10 @@
+yarn.lock
+node_modules/
+media_files/
+package-lock.json
+**/.vscode/
+.evn
+logWinston/error.log
+logWinston/request.log
+logWinston/response.log
+logWinston/system.log
